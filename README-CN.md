@@ -1,4 +1,4 @@
-# 滤波仿真教学工具
+# 滤波仿真教学工具箱
 
 ![code size](https://img.shields.io/github/languages/code-size/ivaquero/book-filters.svg)
 ![repo size](https://img.shields.io/github/repo-size/ivaquero/book-filters.svg)

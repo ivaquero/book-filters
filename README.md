@@ -1,4 +1,4 @@
-# Educational Filter Simulation Tool
+# Filter Simulation Toolkit for Education
 
 ![code size](https://img.shields.io/github/languages/code-size/ivaquero/book-filters.svg)
 ![repo size](https://img.shields.io/github/repo-size/ivaquero/book-filters.svg)
