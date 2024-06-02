@@ -75,7 +75,7 @@ This project is the reorganization of the code in the book [Kalman-and-Bayesian-
   - `datagen`: data generation
   - `models`: motion model
 
-## Example
+## Examples
 
 - `filters-abcf.ipynb`: α-β-γ filtering
 - `filters-bayes.ipynb`: Basics of Bayesian Statistics

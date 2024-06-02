@@ -53,10 +53,5 @@ Temporary Items
 
 # custom
 .vscode
-articles
 images
-lib
-*.bkp
-*.pdf
 test.*
-调试*
