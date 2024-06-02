@@ -32,7 +32,13 @@ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 conda config --set show_channel_urls yes
 # 安装包
-conda install scipy matplotlib pandas
+conda install scipy matplotlib pandas jupyterlab
+```
+
+然后，启动 `jupyterlab` 运行代码
+
+```bash
+cd [本仓库路径] && jupyter lab
 ```
 
 ## 工程结构

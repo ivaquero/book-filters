@@ -26,7 +26,13 @@ To build the environment, there are 3 options
 For option 2&3, you need to run the following command after installation
 
 ```bash
-conda install scipy matplotlib pandas
+conda install scipy matplotlib pandas jupyterlab
+```
+
+Then, launch jupyterlab to run the code
+
+```bash
+cd [this repo] && jupyter lab
 ```
 
 ## Structure
