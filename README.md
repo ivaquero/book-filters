@@ -15,6 +15,20 @@ This project is the reorganization of the code in the book [Kalman-and-Bayesian-
 - Build a filter simulation test tool that is friendly to beginners
 - Form a set of easy-to-understand introductory tutorials
 
+## Requirements
+
+To build the environment, there are 3 options
+
+- Install [Anaconda](https://www.anaconda.com/download/success)
+- Install [Miniconda](https://docs.anaconda.com/free/miniconda/miniconda-install/)
+- Install [Miniforge](https://conda-forge.org/miniforge/)
+
+For option 2&3, you need to run the following command after installation
+
+```bash
+conda install scipy matplotlib pandas
+```
+
 ## Structure
 
 - `filters`: Filter-related module

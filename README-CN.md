@@ -15,6 +15,26 @@
 - 构建一个对入门者友好的滤波仿真试验工具
 - 形成一套通俗易懂的入门教程
 
+## 要求
+
+对于构建环境，有 3 个选项
+
+- 安装 [Anaconda](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
+- 安装 [Miniconda](https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/)
+- 安装 [Miniforge](https://mirrors.tuna.tsinghua.edu.cn/github-release/conda-forge/miniforge/LatestRelease/)
+
+对于选项 2 和 3，你需要在安装后运行以下命令
+
+```bash
+# 使用镜像
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --set show_channel_urls yes
+# 安装包
+conda install scipy matplotlib pandas
+```
+
 ## 工程结构
 
 - `filters`：滤波相关模块
