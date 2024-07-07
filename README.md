@@ -1,7 +1,7 @@
 # Filter Simulation Toolkit for Education
 
-![code size](https://img.shields.io/github/languages/code-size/ivaquero/book-filters.svg)
-![repo size](https://img.shields.io/github/repo-size/ivaquero/book-filters.svg)
+![code size](https://img.shields.io/github/languages/code-size/ivaquero/blog-filters.svg)
+![repo size](https://img.shields.io/github/repo-size/ivaquero/blog-filters.svg)
 
 This project is the reorganization of the code in the book [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) and draws on some of the content in [EKF/UKF Toolbox for Matlab](https://github.com/EEA-sensors/ekfukf).
 
