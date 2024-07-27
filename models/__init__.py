@@ -1,2 +1,2 @@
-from .constant_velocity import ConstantVelocity
-from .coordinated_turn import CoordinatedTurn
+from .const_vel import ConstantVelocity
+from .coord_turn import CoordinatedTurn
