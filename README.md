@@ -3,7 +3,7 @@
 ![code size](https://img.shields.io/github/languages/code-size/ivaquero/blog-filters.svg)
 ![repo size](https://img.shields.io/github/repo-size/ivaquero/blog-filters.svg)
 
-This project is the reorganization of the code in the book [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) and draws on some content in [EKF/UKF Toolbox for MATLAB](https://github.com/EEA-sensors/ekfukf).
+This project is the reorganization of the code in the book [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python).
 
 ## Goals
 
